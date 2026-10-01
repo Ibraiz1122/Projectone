@@ -62,14 +62,14 @@ export const Home: React.FC<HomeProps> = ({
               </div>
 
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-white tracking-tight leading-[1.15] drop-shadow-md">
-                Give Used Clothing a Second Life <br className="hidden sm:inline" />
+                Turning Used Clothing Into <br className="hidden sm:inline" />
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 via-teal-300 to-emerald-300">
-                  Across the Globe
+                  Community Value & Global Impact
                 </span>
               </h1>
 
               <p className="text-base sm:text-lg text-slate-200 max-w-2xl leading-relaxed drop-shadow-xs">
-                We partner with New Jersey & New York schools, non-profits, and property managers to collect wearable textiles. We turn community drives into cash fundraisers, place zero-cost donation bins, and responsibly export clothing to international secondhand markets.
+                We empower NJ & NY schools with cash fundraisers, place zero-cost donation bins for local properties, and responsibly export wearable textiles worldwide.
               </p>
 
               {/* Dual Primary Call-to-Actions */}
